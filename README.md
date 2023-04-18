@@ -18,6 +18,7 @@ First, the two **LDR sensors** sense the intensity of the light that directly fa
 
 ## System model
 ### Block Diagram
+
 ![](https://github.com/LasithaJananjaya/Analog-Lab-Project---Automcatic-Solar-Tracker/blob/main/Report/block_diagram.jpg)
 
 ### Design Parameters
@@ -34,19 +35,24 @@ First, the two **LDR sensors** sense the intensity of the light that directly fa
 * Enclosure Material - Wood
 
 ## Schematic
+
 ![](https://github.com/LasithaJananjaya/Analog-Lab-Project---Automcatic-Solar-Tracker/blob/main/Report/schematic.jpg)
 
 ### Difference Amplifier
 The difference between the input voltage and the set point voltage of 6 volts is being amplified
+
 ![](https://github.com/LasithaJananjaya/Analog-Lab-Project---Automcatic-Solar-Tracker/blob/main/Report/4_difference_amplifier.png)
 
 ### PID Controller - Proportional Part
+
 ![](https://github.com/LasithaJananjaya/Analog-Lab-Project---Automcatic-Solar-Tracker/blob/main/Report/4_proportional.png)
 
 ### PID Controller - Integral Part
+
 ![](https://github.com/LasithaJananjaya/Analog-Lab-Project---Automcatic-Solar-Tracker/blob/main/Report/4_integral.png)
 
 ### PID Controller - Derivative Part
+
 ![](https://github.com/LasithaJananjaya/Analog-Lab-Project---Automcatic-Solar-Tracker/blob/main/Report/4_derivative.png)
 
 ### Weighted Summing Amplifier
@@ -77,15 +83,19 @@ The Printed Circuit Board (PCB) comprises a total of four layers, of which the T
 ![](https://github.com/LasithaJananjaya/Analog-Lab-Project---Automcatic-Solar-Tracker/blob/main/Report/pcb_3d_model.jpg)
 
 ### Top Layer
+
 ![](https://github.com/LasithaJananjaya/Analog-Lab-Project---Automcatic-Solar-Tracker/blob/main/Report/pcb_top_layer.jpg)
 
 ### Bottom Layer
+
 ![](https://github.com/LasithaJananjaya/Analog-Lab-Project---Automcatic-Solar-Tracker/blob/main/Report/pcb_bottom_layer.jpg)
 
 ### Layer 1
+
 ![](https://github.com/LasithaJananjaya/Analog-Lab-Project---Automcatic-Solar-Tracker/blob/main/Report/pcb_layer_1.jpg)
 
 ### Layer 2
+
 ![](https://github.com/LasithaJananjaya/Analog-Lab-Project---Automcatic-Solar-Tracker/blob/main/Report/pcb_layer_2.jpg)
 
 ## Enclosure design
