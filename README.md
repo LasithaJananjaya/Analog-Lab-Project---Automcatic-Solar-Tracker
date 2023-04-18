@@ -1,6 +1,6 @@
 # lab_project_solar_tracker
-Semester 3 Analog Lab Project.
-Automatic Solar Tracker
+Semester 3 Analog Lab Project - Automatic Solar Tracker
+
 ## Abstract
 This project aims to address the challenge of optimizing solar panel energy generation, given that the efficiency of current solar technology is affected by the intensity of sunlight and angle of incidence. The demand for solar power has increased worldwide as a preferred green energy alternative to non-renewable energy sources. To achieve the highest efficiency, an analog PID control circuit is designed to dynamically adjust the angular position of a solar panel along a single axis. This will enable the panel to optimize its generation of electricity, even under varying lighting and positional circumstances.
 
